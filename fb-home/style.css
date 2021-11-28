@@ -1,0 +1,106 @@
+.background,
+.outer-bg{
+    height: 100%;
+    background-color: #242526; /* For browsers that do not support gradients */
+    background: linear-gradient(white, 25%, #242526);
+}
+
+
+.cover-img{
+    width:100%;
+}
+
+.dp-img{
+    margin-top: -15px;
+    border-width: 5px;
+    border-color: #242526;
+}
+
+.btn-sign{
+    margin-top: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.link{
+    margin-left: 100px;
+}
+
+.fa-star{
+    color:#f5e342;
+}
+
+.fa-check-circle{
+width: 16px;
+height: 16px;
+color:#0e4ee6;
+}
+
+
+.content,
+.container,
+.nav-menu{
+    width:70%;
+}
+
+.nav-menu{
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.bottom-content,
+.bg{
+    background-color: #222;
+    border-color: #222;
+}
+
+.cards-area{
+    width:70%;
+    margin-left: 280px;
+}
+
+.btn-create{
+    margin-top: -20px;
+    margin-left: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.see-link{
+    margin-left: 170px;
+}
+
+.text{
+    margin-top: -40px;
+    margin-left: 60px;
+}
+
+.card-bg2{
+    margin-top: 20px;
+}
+
+.cont-text{
+    margin-top: 15px;
+}
+.card-image{
+    width:100%;
+}
+
+.fa-images{
+    color:#00b300;
+}
+
+.fa-map-marker-alt{
+    color: #e62e00;
+
+}
+
+.green{
+    color:#00b300;
+}
+
+.fa-facebook{
+    color:#0e4ee6;
+}
